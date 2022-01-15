@@ -1,0 +1,21 @@
+#marcel {
+	border: 10px solid black;
+	margin: 20px;
+	width: 200px;
+	height: 200px;
+}
+
+.verde {
+	background-color: green;
+	color: black;
+}
+
+.azul {
+	background-color: blue;
+	color: white;
+}
+
+.vermelho {
+	background-color: red;
+	color: black;
+}
